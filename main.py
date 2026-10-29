@@ -1,3 +1,5 @@
+# https://github.com/AlirezaGhalyaei02/calculate-avg
+
 def calculate_avg():
     while True:
         try:
